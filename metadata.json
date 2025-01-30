@@ -1,0 +1,38 @@
+{
+  "id": "I90EE4D0F",
+  "title": {
+    "BO": "དགོངས་པ་རབ་གསལ་ལས་སེམས་བསྐྱེད་དྲུག་པ། ཤོ་ལོ་ཀ ༡-༦༤"
+  },
+  "author": {
+    "BO": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ།",
+    "EN": "Tsongkhapa Lobzang Drakpa"
+  },
+  "imported": "2025-01-30T10:54:10.582397",
+  "source": "http://purl.bdrc.io/resource/WA1NLM688",
+  "toolkit_version": "0.0.1",
+  "parser": "DocxNumberListCommentaryParser",
+  "initial_creation_type": "google_docx",
+  "language": "bo",
+  "source_metadata": {
+    "title_short": {
+      "BO": "དགོངས་པ་རབ་གསལ་ལས་སེམས་བསྐྱེད་དྲུག་པ། ཤོ་ལོ་ཀ ༡-༦༤"
+    },
+    "title_long_clean": {
+      "BO": "དགོངས་པ་རབ་གསལ་ལས་སེམས་བསྐྱེད་དྲུག་པ། ཤོ་ལོ་ཀ ༡-༦༤"
+    },
+    "commentary_of": "I44F6BF0B",
+    "commentary_alignments": [
+      {
+        "source": "I44F6BF0B/layers/8956/Tibetan_Segment-88B1.json",
+        "target": "I90EE4D0F/layers/4D15/Meaning_Segment-E6E2.json"
+      }
+    ]
+  },
+  "bases": [],
+  "copyright": {
+    "status": "Unknown",
+    "notice": "",
+    "info_url": null
+  },
+  "licence": "Unknown"
+}
