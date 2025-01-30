@@ -37,6 +37,12 @@
           "root": "I5BACD733/layers/94BE/Tibetan_Segment-88B1.json",
           "translation": "ann_transfer/P3/I90EE4D0F/layers/4D15/Pecha_Display_Alignment_Segment-F434.json"
         }
+      ],
+      [
+        {
+          "root": "I5BACD733/layers/94BE/Tibetan_Segment-88B1.json",
+          "translation": "ann_transfer/P3/I90EE4D0F/layers/4D15/Pecha_Display_Alignment_Segment-AA0E.json"
+        }
       ]
     ]
   },
