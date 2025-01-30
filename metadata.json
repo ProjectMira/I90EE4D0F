@@ -26,6 +26,12 @@
         "source": "I44F6BF0B/layers/8956/Tibetan_Segment-88B1.json",
         "target": "I90EE4D0F/layers/4D15/Meaning_Segment-E6E2.json"
       }
+    ],
+    "pecha_display_alignments": [
+      {
+        "root": "I5BACD733/layers/94BE/Meaning_Segment-DF44.json",
+        "translation": "ann_transfer/P3/I90EE4D0F/layers/4D15/Pecha_Display_Alignment_Segment-3943.json"
+      }
     ]
   },
   "bases": [],
