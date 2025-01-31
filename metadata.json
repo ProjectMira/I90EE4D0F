@@ -50,6 +50,12 @@
           "translation": "ann_transfer/P3/I90EE4D0F/layers/4D15/Pecha_Display_Alignment_Segment-3ED4.json"
         }
       ]
+    ],
+    "segmentation_transfered": [
+      {
+        "source": "data/opf/IE2B5AF4E/layers/5191/Tibetan_Segment-5457.json",
+        "transfered": "data/opf/I90EE4D0F/layers/4D15/Tibetan_Segment-5457.json"
+      }
     ]
   },
   "bases": [],
