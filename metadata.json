@@ -139,6 +139,12 @@
           "source": "opf/P2/IE2B5AF4E/layers/5191/Tibetan_Segment-5457.json",
           "transfered": "opf/P1/I90EE4D0F/layers/4D15/Tibetan_Segment-5457.json"
         }
+      ],
+      [
+        {
+          "source": "opf/P2/I41F181BC/layers/CE48/Tibetan_Segment-5E0E.json",
+          "transfered": "opf/P1/I90EE4D0F/layers/4D15/Tibetan_Segment-5E0E.json"
+        }
       ]
     ]
   },
